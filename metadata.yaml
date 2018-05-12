@@ -1,0 +1,33 @@
+_repo: Jenny--Roman_32245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Svarstad, Sigrid Undset
+    - Unset, Sigrid
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+description: ''
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32245'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Painters -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+title: 'Jenny: Roman'
+url: http://www.gutenberg.org/ebooks/32245
